@@ -44,4 +44,4 @@ git branch develop
 
 Agora para criar novas funcionalidades criaremos mais uma branch para tal. Uma vez terminada e testada a funcionalidade faremos um merge para a branch develop e apagamos essa branch da funcionalidade adicionada.
 
-Quando terminadas todas as funcionalidades em DEV, criaremos uma nova branch chamada RELEASE que será enviada para o remoto e do remoto será criado um pull request para mandar para o main do original.
+Quando terminadas todas as funcionalidades em DEV, criaremos uma nova branch chamada RELEASE que será enviada para o remoto e do remoto será criado um pull request para mandar para o main do original.a
